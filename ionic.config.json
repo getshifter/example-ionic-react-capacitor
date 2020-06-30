@@ -1,0 +1,7 @@
+{
+  "name": "ionic-wp-capacitor",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
