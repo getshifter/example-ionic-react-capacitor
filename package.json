@@ -24,10 +24,13 @@
     "typescript": "3.8.3"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "ionic": "ionic",
+    "serve": "npm run ionic serve",
+    "build": "npm run ionic build",
+    "react:start": "react-scripts start",
+    "react:build": "react-scripts build",
+    "react:test": "react-scripts test",
+    "react:eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -45,7 +48,8 @@
     ]
   },
   "devDependencies": {
-    "@capacitor/cli": "2.2.0"
+    "@capacitor/cli": "2.2.0",
+    "@ionic/cli": "^6.10.1"
   },
   "description": "An Ionic project"
 }
