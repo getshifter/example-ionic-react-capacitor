@@ -1260,6 +1260,16 @@
     ionicons "^5.0.1"
     tslib "^1.10.0"
 
+"@ionic/pwa-elements@^1.5.2":
+  version "1.5.2"
+  resolved "https://registry.yarnpkg.com/@ionic/pwa-elements/-/pwa-elements-1.5.2.tgz#fa09df335edac62b48f350c38b12647310f1b967"
+  integrity sha512-OMa+el4XjnAx22P6S8CN2GGEfDgMkuwOxE5x5Cd/6ZDfcZKRuP//l4+JLF4YBvfvyPPHvaQLI+Ies7H2OTmAuA==
+
+"@ionic/react-hooks@^0.0.8":
+  version "0.0.8"
+  resolved "https://registry.yarnpkg.com/@ionic/react-hooks/-/react-hooks-0.0.8.tgz#3d036aaeffbb7b136ac411c896e907fb59bdbf92"
+  integrity sha512-0U9hoPByJxd4/Sdx/uad2sDYCgQmQdG0nt+UNEzkk6IF4TjNVAQPcFQ6nJIc2oiUAMjaxzoLKmG8ziamuyfZaQ==
+
 "@ionic/react-router@^5.0.7":
   version "5.2.2"
   resolved "https://registry.yarnpkg.com/@ionic/react-router/-/react-router-5.2.2.tgz#4b57f0a2ce2579255e71366db6f47d5c2c18f2bd"

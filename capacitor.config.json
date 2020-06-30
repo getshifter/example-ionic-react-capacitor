@@ -2,7 +2,7 @@
   "appId": "io.ionic.starter",
   "appName": "ionic-wp-capacitor",
   "bundledWebRuntime": false,
-  "npmClient": "npm",
+  "npmClient": "yarn",
   "webDir": "build",
   "plugins": {
     "SplashScreen": {
