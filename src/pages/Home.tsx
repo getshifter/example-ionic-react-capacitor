@@ -16,6 +16,7 @@ import './Home.css';
 import { ToasterDemo } from '../components/capacitors/Toaster';
 import { ClipboardDemo } from '../components/capacitors/ClipBoard';
 import { useNetworkHook } from '../hooks/capacitor/Network';
+import { CameraDemo } from '../components/capacitors/Camera';
 
 
 const Home: React.FC = () => {
@@ -52,10 +53,9 @@ const Home: React.FC = () => {
             </IonTitle>
           </IonToolbar>
         </IonHeader>
-        <IonContent>
-          <ToasterDemo />
-          <ClipboardDemo />
-        </IonContent>
+        <CameraDemo />
+        <ToasterDemo />
+        <ClipboardDemo />
 
         <IonList>
           {messages.map(m => <MessageListItem key={m.id} message={m} />)}

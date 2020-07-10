@@ -14,7 +14,7 @@ export const ClipboardDemo = () => {
     return (
         <IonCard>
           <IonCardHeader>
-            <IonCardTitle>Use Capacitor</IonCardTitle>
+            <IonCardTitle>Access Native clipboard API</IonCardTitle>
           </IonCardHeader>
           {availableFeatures.useClipboard ? (
           <IonCardContent>

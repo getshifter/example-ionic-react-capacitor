@@ -4,6 +4,7 @@ import {
   IonCard,
   IonCardContent,
   IonCardHeader,
+  IonCardTitle,
 } from '@ionic/react';
 import { Plugins as CapPlugins } from '@capacitor/core';
 
@@ -24,7 +25,7 @@ export const ToasterDemo = () => {
     return (
         <IonCard>
           <IonCardHeader>
-            Toast
+            <IonCardTitle>Toast</IonCardTitle>
           </IonCardHeader>
           <IonCardContent>
             <IonButton onClick={showToast}>Show toast</IonButton>
