@@ -15,6 +15,7 @@ import {
 import './Home.css';
 import { ToasterDemo } from '../components/capacitors/Toaster';
 import { ClipboardDemo } from '../components/capacitors/ClipBoard';
+import { useNetworkHook } from '../hooks/capacitor/Network';
 
 
 const Home: React.FC = () => {
@@ -30,6 +31,7 @@ const Home: React.FC = () => {
       e.detail.complete();
     }, 3000);
   };
+  useNetworkHook()
 
   return (
     <IonPage id="home-page">
