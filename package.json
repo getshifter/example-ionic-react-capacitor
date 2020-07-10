@@ -28,7 +28,8 @@
   "scripts": {
     "ionic": "ionic",
     "serve": "npm run ionic serve",
-    "build": "npm run ionic build",
+    "build": "npm run ionic build && npm run build:netlify",
+    "build:netlify": "echo '/*    /index.html   200' > build/_redirects",
     "react:start": "react-scripts start",
     "react:build": "react-scripts build",
     "react:test": "react-scripts test",
