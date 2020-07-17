@@ -1267,10 +1267,10 @@
     ionicons "^5.1.2"
     tslib "^1.10.0"
 
-"@ionic/pwa-elements@1.5.2":
-  version "1.5.2"
-  resolved "https://registry.yarnpkg.com/@ionic/pwa-elements/-/pwa-elements-1.5.2.tgz#fa09df335edac62b48f350c38b12647310f1b967"
-  integrity sha512-OMa+el4XjnAx22P6S8CN2GGEfDgMkuwOxE5x5Cd/6ZDfcZKRuP//l4+JLF4YBvfvyPPHvaQLI+Ies7H2OTmAuA==
+"@ionic/pwa-elements@3.0.0":
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/@ionic/pwa-elements/-/pwa-elements-3.0.0.tgz#ae114d5d17d9618eb7eb793a2ea86cdb7607e2a7"
+  integrity sha512-elWuRK5CmdFvEqzObxA9+aYH2Inn5nBQS045vkbLiF2KzwENap8BgSuwvc5nVdp/iJpCTVUyWvnqMnOvWZ4LVQ==
 
 "@ionic/react-hooks@0.0.8":
   version "0.0.8"

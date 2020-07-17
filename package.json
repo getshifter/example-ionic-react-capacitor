@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@capacitor/core": "2.3.0",
-    "@ionic/pwa-elements": "1.5.2",
+    "@ionic/pwa-elements": "3.0.0",
     "@ionic/react": "5.2.3",
     "@ionic/react-hooks": "0.0.8",
     "@ionic/react-router": "5.2.3",
