@@ -9,7 +9,7 @@
     "@ionic/react-hooks": "0.0.8",
     "@ionic/react-router": "5.3.1",
     "@testing-library/jest-dom": "5.11.3",
-    "@testing-library/react": "10.4.8",
+    "@testing-library/react": "10.4.9",
     "@testing-library/user-event": "12.1.1",
     "@types/jest": "26.0.10",
     "@types/node": "12.12.47",
@@ -52,7 +52,7 @@
   },
   "devDependencies": {
     "@capacitor/cli": "2.4.0",
-    "@ionic/cli": "6.11.0"
+    "@ionic/cli": "6.11.1"
   },
   "description": "An Ionic project"
 }
