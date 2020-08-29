@@ -1224,10 +1224,10 @@
   dependencies:
     "@hapi/hoek" "^8.3.0"
 
-"@ionic/cli-framework-output@2.0.2":
-  version "2.0.2"
-  resolved "https://registry.yarnpkg.com/@ionic/cli-framework-output/-/cli-framework-output-2.0.2.tgz#405be0c17785aa6b8ca13bb12338ebb9d29b6b64"
-  integrity sha512-zw0vJATCkUxp2VkIM3Sag78sLOY50utUyqMYKQMuxQoWvSMQO3VBBmz+lD0PL7OB5Lrsf0KDUqZBklFAVSdLvg==
+"@ionic/cli-framework-output@2.1.0":
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/@ionic/cli-framework-output/-/cli-framework-output-2.1.0.tgz#0e16dfa27b656947da90e698267f872af281db57"
+  integrity sha512-PiMhJDrXn3h2SK2dW4YJvyiTx6zjV/TDftegJh1UWsTlwWuYFNKgm7shWJlDHTAOe1E5aRY4BeQzAriXqm2RQg==
   dependencies:
     "@ionic/utils-terminal" "2.2.1"
     debug "^4.0.0"
@@ -1248,12 +1248,12 @@
     inquirer "^7.0.0"
     tslib "^2.0.1"
 
-"@ionic/cli-framework@5.0.2":
-  version "5.0.2"
-  resolved "https://registry.yarnpkg.com/@ionic/cli-framework/-/cli-framework-5.0.2.tgz#f2fdbd1f113c1b9bd1f95268285efb3e8153fd0c"
-  integrity sha512-kimiPzuWQhb2DZhtyoXzUtnW+qTwDp6jH8D8eX0f3vK5Wef/7UCCijuna8BD1IMrqrr9Nwa9IW8nkEJy6fFiZA==
+"@ionic/cli-framework@5.0.3":
+  version "5.0.3"
+  resolved "https://registry.yarnpkg.com/@ionic/cli-framework/-/cli-framework-5.0.3.tgz#c195a0f9642f51c08a12adc661a6cfb39834a522"
+  integrity sha512-y9dneWk0fIs/j8rtxQVVKZ6JpmMmfArxvysfh5XqsytOA6FUJ1OT4/K3tUuuWww4vh1V89HW0GxBN1eUT3hEkg==
   dependencies:
-    "@ionic/cli-framework-output" "2.0.2"
+    "@ionic/cli-framework-output" "2.1.0"
     "@ionic/utils-array" "2.1.5"
     "@ionic/utils-fs" "3.1.5"
     "@ionic/utils-object" "2.1.5"
@@ -1270,13 +1270,13 @@
     untildify "^4.0.0"
     write-file-atomic "^3.0.0"
 
-"@ionic/cli@6.11.6":
-  version "6.11.6"
-  resolved "https://registry.yarnpkg.com/@ionic/cli/-/cli-6.11.6.tgz#a198a7f7a28190ef280e6125e3a7259a012c729c"
-  integrity sha512-WmBf3iOAnVcda4CP3h+meLSNbsZmm2PLSR/Cl5cnm0q/L+1U61E5ZrQ9W0zIaGX7Ar0OpeTK84lLvAVT7KmISA==
+"@ionic/cli@6.11.7":
+  version "6.11.7"
+  resolved "https://registry.yarnpkg.com/@ionic/cli/-/cli-6.11.7.tgz#68be3b9c0818f6330479554aad6aee5b339c669f"
+  integrity sha512-wbdVOAxlL8Lqd5GTTIhma9xDFgzv6P626+NRisY8aMiZNC8NLh/F4d4GW4kJczlFD7zQNLsPY/u7QrvlXKfUlg==
   dependencies:
-    "@ionic/cli-framework" "5.0.2"
-    "@ionic/cli-framework-output" "2.0.2"
+    "@ionic/cli-framework" "5.0.3"
+    "@ionic/cli-framework-output" "2.1.0"
     "@ionic/cli-framework-prompts" "2.1.6"
     "@ionic/utils-array" "2.1.5"
     "@ionic/utils-fs" "3.1.5"
