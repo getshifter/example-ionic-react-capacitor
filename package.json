@@ -3,14 +3,14 @@
   "version": "0.0.1",
   "private": true,
   "dependencies": {
-    "@capacitor/core": "2.4.1",
+    "@capacitor/core": "2.4.2",
     "@ionic/pwa-elements": "3.0.1",
-    "@ionic/react": "5.3.3",
+    "@ionic/react": "5.3.4",
     "@ionic/react-hooks": "0.0.8",
-    "@ionic/react-router": "5.3.3",
+    "@ionic/react-router": "5.3.4",
     "@testing-library/jest-dom": "5.11.4",
     "@testing-library/react": "11.0.4",
-    "@testing-library/user-event": "12.1.5",
+    "@testing-library/user-event": "12.1.6",
     "@types/jest": "26.0.14",
     "@types/node": "12.12.47",
     "@types/react": "16.9.49",
@@ -51,8 +51,8 @@
     ]
   },
   "devDependencies": {
-    "@capacitor/cli": "2.4.1",
-    "@ionic/cli": "6.11.8"
+    "@capacitor/cli": "2.4.2",
+    "@ionic/cli": "6.11.9"
   },
   "description": "An Ionic project"
 }
