@@ -5,19 +5,19 @@
   "dependencies": {
     "@capacitor/core": "2.4.2",
     "@ionic/pwa-elements": "3.0.1",
-    "@ionic/react": "5.3.4",
+    "@ionic/react": "5.3.5",
     "@ionic/react-hooks": "0.0.8",
-    "@ionic/react-router": "5.3.4",
+    "@ionic/react-router": "5.3.5",
     "@testing-library/jest-dom": "5.11.4",
     "@testing-library/react": "11.0.4",
     "@testing-library/user-event": "12.1.7",
     "@types/jest": "26.0.14",
     "@types/node": "12.12.47",
-    "@types/react": "16.9.50",
+    "@types/react": "16.9.51",
     "@types/react-dom": "16.9.8",
     "@types/react-router": "5.1.8",
-    "@types/react-router-dom": "5.1.5",
-    "ionicons": "5.1.2",
+    "@types/react-router-dom": "5.1.6",
+    "ionicons": "5.2.3",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-router": "5.2.0",
@@ -52,7 +52,7 @@
   },
   "devDependencies": {
     "@capacitor/cli": "2.4.2",
-    "@ionic/cli": "6.11.10"
+    "@ionic/cli": "6.11.11"
   },
   "description": "An Ionic project"
 }
