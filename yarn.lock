@@ -1170,10 +1170,10 @@
     tar "^6.0.1"
     tslib "^2.0.1"
 
-"@ionic/core@5.4.1":
-  version "5.4.1"
-  resolved "https://registry.yarnpkg.com/@ionic/core/-/core-5.4.1.tgz#c9e3e0193cb2899788bd01a4dcb5121552f0dcba"
-  integrity sha512-yONXeHjbVGUSL7zPgiCv0fQkw47VHJJ+8zVkYgTg4At+B0VhoLAMgS/ah3EUwSVTOATXdHa6Ak5+71uHPKpViQ==
+"@ionic/core@5.4.2":
+  version "5.4.2"
+  resolved "https://registry.yarnpkg.com/@ionic/core/-/core-5.4.2.tgz#8aed70f6ffc89317ac97be73e67adb4c6c4694dc"
+  integrity sha512-wFUaq/Pr7ufc6itELuQFZXUQsaEyE12Y3CNn9Qu7NM1wPtthPhywlgga7mWyBSc+VTBHNsaSvQZk863tE+xnGw==
   dependencies:
     ionicons "^5.1.2"
     tslib "^1.10.0"
@@ -1188,19 +1188,19 @@
   resolved "https://registry.yarnpkg.com/@ionic/react-hooks/-/react-hooks-0.0.8.tgz#3d036aaeffbb7b136ac411c896e907fb59bdbf92"
   integrity sha512-0U9hoPByJxd4/Sdx/uad2sDYCgQmQdG0nt+UNEzkk6IF4TjNVAQPcFQ6nJIc2oiUAMjaxzoLKmG8ziamuyfZaQ==
 
-"@ionic/react-router@5.4.1":
-  version "5.4.1"
-  resolved "https://registry.yarnpkg.com/@ionic/react-router/-/react-router-5.4.1.tgz#6eb25d0972c9e9d7c7f35ada55336843664dbbc8"
-  integrity sha512-VKjeLtF9BJdpG5pHeQEVIioVMr3b+YVyw9aGXTDEqW0S6CYTpvzdhWmiISJUdID4RHiW+NEkwaInThJ2gU1iNw==
+"@ionic/react-router@5.4.2":
+  version "5.4.2"
+  resolved "https://registry.yarnpkg.com/@ionic/react-router/-/react-router-5.4.2.tgz#d453c92d90d07555e8e0f1501c9de5fbc9021ba0"
+  integrity sha512-kikcfHgNzL1+16eW+cD6JJp2SDDGLMId3zAe3qv2bUQhVIin4ei7J8WYHuL8ju2Cc3Lz5yI6a+i0mSP8tYKXkQ==
   dependencies:
     tslib "*"
 
-"@ionic/react@5.4.1":
-  version "5.4.1"
-  resolved "https://registry.yarnpkg.com/@ionic/react/-/react-5.4.1.tgz#ae9668768cd96b98745e3f77a4633638b37c933e"
-  integrity sha512-D12O6jc3ldQeK5odmi/n/kO+Qvv00Z/TiV4MbvuJ4CEKbCSrI5B8qA0+h5T8C8KX1lAzu5CvDgEf9ZvaptXiYw==
+"@ionic/react@5.4.2":
+  version "5.4.2"
+  resolved "https://registry.yarnpkg.com/@ionic/react/-/react-5.4.2.tgz#15c1f1212a5a90984a4a54420deafae82bb937fd"
+  integrity sha512-nUrDpECEgUB6vytEtm0rFBJC1UdVZBVl5lUoMKCeiiw8QH1IGA61WdaFfAiLkD1k5LbqsqyKcdBownPM+nenCA==
   dependencies:
-    "@ionic/core" "5.4.1"
+    "@ionic/core" "5.4.2"
     ionicons "^5.1.2"
     tslib "*"
 
@@ -1665,10 +1665,10 @@
     "@svgr/plugin-svgo" "^5.4.0"
     loader-utils "^2.0.0"
 
-"@testing-library/dom@^7.26.0":
-  version "7.26.3"
-  resolved "https://registry.yarnpkg.com/@testing-library/dom/-/dom-7.26.3.tgz#5554ee985f712d621bd676104b879f85d9a7a0ef"
-  integrity sha512-/1P6taENE/H12TofJaS3L1J28HnXx8ZFhc338+XPR5y1E3g5ttOgu86DsGnV9/n2iPrfJQVUZ8eiGYZGSxculw==
+"@testing-library/dom@^7.26.4":
+  version "7.26.5"
+  resolved "https://registry.yarnpkg.com/@testing-library/dom/-/dom-7.26.5.tgz#804a74fc893bf6da1a7970dbca7b94c2bbfe983d"
+  integrity sha512-2v/fv0s4keQjJIcD4bjfJMFtvxz5icartxUWdIZVNJR539WD9oxVrvIAPw+3Ydg4RLgxt0rvQx3L9cAjCci0Kg==
   dependencies:
     "@babel/code-frame" "^7.10.4"
     "@babel/runtime" "^7.10.3"
@@ -1693,18 +1693,18 @@
     lodash "^4.17.15"
     redent "^3.0.0"
 
-"@testing-library/react@11.1.0":
-  version "11.1.0"
-  resolved "https://registry.yarnpkg.com/@testing-library/react/-/react-11.1.0.tgz#dfb4b3177d05a8ccf156b5fd14a5550e91d7ebe4"
-  integrity sha512-Nfz58jGzW0tgg3irmTB7sa02JLkLnCk+QN3XG6WiaGQYb0Qc4Ok00aujgjdxlIQWZHbb4Zj5ZOIeE9yKFSs4sA==
+"@testing-library/react@11.1.1":
+  version "11.1.1"
+  resolved "https://registry.yarnpkg.com/@testing-library/react/-/react-11.1.1.tgz#226d8dc7491b702fcaac2d7d88d42892e655893a"
+  integrity sha512-DT/P2opE9o4NWCd/oIL73b6VF/Xk9AY8iYSstKfz9cXw0XYPQ5IhA/cuYfoN9nU+mAynW8DpAVfEWdM6e7zF6g==
   dependencies:
-    "@babel/runtime" "^7.11.2"
-    "@testing-library/dom" "^7.26.0"
+    "@babel/runtime" "^7.12.1"
+    "@testing-library/dom" "^7.26.4"
 
-"@testing-library/user-event@12.1.10":
-  version "12.1.10"
-  resolved "https://registry.yarnpkg.com/@testing-library/user-event/-/user-event-12.1.10.tgz#e043ef5aa10e4b3e56b434e383d2fbfef1fcfb7f"
-  integrity sha512-StlNdKHp2Rpb7yrny/5/CGpz8bR3jLa1Ge59ODGU6TmAhkrxSpvR6tCD1gaMFkkjEUWkmmye8BaXsZPcaiJ6Ug==
+"@testing-library/user-event@12.2.0":
+  version "12.2.0"
+  resolved "https://registry.yarnpkg.com/@testing-library/user-event/-/user-event-12.2.0.tgz#fbb0710f93d68a28b9407e2380eb152354c944a7"
+  integrity sha512-Vnmm1ZvJ+JSQ7+lGIWMIdGbdLFQBAeWEAZJjw6dZwKWMwVTOBXMFbAxUCewQEVM0xfD4sGrYS/Hxec311WknGw==
   dependencies:
     "@babel/runtime" "^7.10.2"
 
@@ -1900,10 +1900,18 @@
     "@types/history" "*"
     "@types/react" "*"
 
-"@types/react@*", "@types/react@16.9.55":
+"@types/react@*":
   version "16.9.55"
   resolved "https://registry.yarnpkg.com/@types/react/-/react-16.9.55.tgz#47078587f5bfe028a23b6b46c7b94ac0d436acff"
   integrity sha512-6KLe6lkILeRwyyy7yG9rULKJ0sXplUsl98MGoCfpteXf9sPWFWWMknDcsvubcpaTdBuxtsLF6HDUwdApZL/xIg==
+  dependencies:
+    "@types/prop-types" "*"
+    csstype "^3.0.2"
+
+"@types/react@16.9.56":
+  version "16.9.56"
+  resolved "https://registry.yarnpkg.com/@types/react/-/react-16.9.56.tgz#ea25847b53c5bec064933095fc366b1462e2adf0"
+  integrity sha512-gIkl4J44G/qxbuC6r2Xh+D3CGZpJ+NdWTItAPmZbR5mUS+JQ8Zvzpl0ea5qT/ZT3ZNTUcDKUVqV3xBE8wv/DyQ==
   dependencies:
     "@types/prop-types" "*"
     csstype "^3.0.2"
