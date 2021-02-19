@@ -1930,10 +1930,10 @@
     tslib "^2.0.1"
     write-file-atomic "^3.0.0"
 
-"@ionic/cli@6.12.4":
-  version "6.12.4"
-  resolved "https://registry.yarnpkg.com/@ionic/cli/-/cli-6.12.4.tgz#500006cbb032f3b069594ef23e5c3e4b50e4e31c"
-  integrity sha512-BPtOVTroqJlkC9doeQV6ahBl29x9x3uE3uJy5vwtTYiAbSi3RpMJyYxATZRkUBcaagRveBJNRmgx3RDau/oIZA==
+"@ionic/cli@6.13.0":
+  version "6.13.0"
+  resolved "https://registry.yarnpkg.com/@ionic/cli/-/cli-6.13.0.tgz#c4b42188cd760903b43e2bcba2919b0a68fa301b"
+  integrity sha512-EhxpjVMX9VVN22+VrjvVW1vLJymZKMJczSwCvNoZ7nvbeHfRR4LaYLB5l8IlSrB4uNmfv4rsM8kAk25fUUqQbA==
   dependencies:
     "@ionic/cli-framework" "5.1.0"
     "@ionic/cli-framework-output" "2.2.2"
@@ -2644,10 +2644,10 @@
   resolved "https://registry.yarnpkg.com/@types/node/-/node-14.14.22.tgz#0d29f382472c4ccf3bd96ff0ce47daf5b7b84b18"
   integrity sha512-g+f/qj/cNcqKkc3tFqlXOYjrmZA+jNBiDzbP3kH+B+otKFqAdPgVTGP1IeKRdMml/aE69as5S4FqtxAbl+LaMw==
 
-"@types/node@12.20.0":
-  version "12.20.0"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-12.20.0.tgz#692dfdecd6c97f5380c42dd50f19261f9f604deb"
-  integrity sha512-0/41wHcurotvSOTHQUFkgL702c3pyWR1mToSrrX3pGPvGfpHTv3Ksx0M4UVuU5VJfjVb62Eyr1eKO1tWNUCg2Q==
+"@types/node@12.20.3":
+  version "12.20.3"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-12.20.3.tgz#fbabde59d96c23a80e337ca6a71b464da2a0a824"
+  integrity sha512-63cSd8J30Sr4/aFKKfDmCEM4GMH3W2efWT0Ii/B+Ohm3id0TU2xPEBFktiq3nXCZcN6VwVvpyv75I4zTP7YO/w==
 
 "@types/normalize-package-data@^2.4.0":
   version "2.4.0"
