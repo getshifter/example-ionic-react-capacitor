@@ -5,17 +5,17 @@
   "dependencies": {
     "@capacitor/core": "2.4.7",
     "@ionic/pwa-elements": "3.0.2",
-    "@ionic/react": "5.5.5",
+    "@ionic/react": "5.6.0",
     "@ionic/react-hooks": "0.0.8",
-    "@ionic/react-router": "5.5.5",
+    "@ionic/react-router": "5.6.0",
     "@testing-library/jest-dom": "5.11.9",
     "@testing-library/react": "11.2.5",
-    "@testing-library/user-event": "12.7.4",
+    "@testing-library/user-event": "12.8.1",
     "@types/jest": "26.0.20",
     "@types/node": "12.20.4",
     "@types/react": "17.0.2",
     "@types/react-dom": "17.0.1",
-    "@types/react-router": "5.1.11",
+    "@types/react-router": "5.1.12",
     "@types/react-router-dom": "5.1.7",
     "ionicons": "5.5.0",
     "react": "17.0.1",
@@ -23,7 +23,7 @@
     "react-router": "5.2.0",
     "react-router-dom": "5.2.0",
     "react-scripts": "4.0.3",
-    "typescript": "4.2.2"
+    "typescript": "4.2.3"
   },
   "scripts": {
     "ionic": "ionic",
