@@ -1317,12 +1317,13 @@
     tar "^6.0.1"
     tslib "^2.0.1"
 
-"@ionic/core@5.5.5":
-  version "5.5.5"
-  resolved "https://registry.yarnpkg.com/@ionic/core/-/core-5.5.5.tgz#f30b14f2a262ef2526a44d21b616be3881169ac5"
-  integrity sha512-i5KTiRuGa9PTUULy8rTQDDDw3FbxzYiOoSdKGNC0v7UOpMv9ReRixMWd5J0cfY17VRrua2aqNsqZXYwuInVnRQ==
+"@ionic/core@5.6.0":
+  version "5.6.0"
+  resolved "https://registry.yarnpkg.com/@ionic/core/-/core-5.6.0.tgz#e7dd9a31402223e95255d2193df201286391a71c"
+  integrity sha512-dRwNRjHBiE2nB0JKY7tNHbcYMGXmDp7QCCVmtQbU511rZkwDlPUtg5qMJFHuLQVVUE21bjmWIJliE0aB9kcwYQ==
   dependencies:
-    ionicons "^5.1.2"
+    "@stencil/core" "^2.4.0"
+    ionicons "^5.5.0"
     tslib "^1.10.0"
 
 "@ionic/pwa-elements@3.0.2":
@@ -1335,19 +1336,19 @@
   resolved "https://registry.yarnpkg.com/@ionic/react-hooks/-/react-hooks-0.0.8.tgz#3d036aaeffbb7b136ac411c896e907fb59bdbf92"
   integrity sha512-0U9hoPByJxd4/Sdx/uad2sDYCgQmQdG0nt+UNEzkk6IF4TjNVAQPcFQ6nJIc2oiUAMjaxzoLKmG8ziamuyfZaQ==
 
-"@ionic/react-router@5.5.5":
-  version "5.5.5"
-  resolved "https://registry.yarnpkg.com/@ionic/react-router/-/react-router-5.5.5.tgz#cbf6379ff679d917f80522b97f6546baca8f2ca0"
-  integrity sha512-Ys7Q77ND8Yx3XtvesrpdoYvybVBTHJrPQBmMPbhjpPLjvHibjxXX/ESoiXQYbNeg2ucSQUQbx9CvPwD0YbgHaQ==
+"@ionic/react-router@5.6.0":
+  version "5.6.0"
+  resolved "https://registry.yarnpkg.com/@ionic/react-router/-/react-router-5.6.0.tgz#a7a9e2deee9615210a4f813422de361501244566"
+  integrity sha512-XrAk5y/Lstmsppc+UZH7tVjkq3TONnbcEJgN7OxtVO7Qc5Y4XjVtrLkJDN7ZpPtKXffHk/JpsVuLEchrWH+tuw==
   dependencies:
     tslib "*"
 
-"@ionic/react@5.5.5":
-  version "5.5.5"
-  resolved "https://registry.yarnpkg.com/@ionic/react/-/react-5.5.5.tgz#e7039519fbf222ba04f04a7f805766d1d045b2b6"
-  integrity sha512-UI2aJX+VxX3zyyeiNDSn+seffRxV1rXLoxaLwCxh3xe56TXl+3FWUVSbWS0vTCXJeDoL0PX8cxFemtMMifxyiQ==
+"@ionic/react@5.6.0":
+  version "5.6.0"
+  resolved "https://registry.yarnpkg.com/@ionic/react/-/react-5.6.0.tgz#aa0244af05cd20501fd6151db118da46a3c9fdf8"
+  integrity sha512-Qh4z3MBqMHKmmTtn3bsQAajEg/0JYUrC5x1vHymcj6XcJYEHomvYAFjMeMJCYUSAHqUrAKu8f2+LBXhTRKITHA==
   dependencies:
-    "@ionic/core" "5.5.5"
+    "@ionic/core" "5.6.0"
     ionicons "^5.1.2"
     tslib "*"
 
@@ -1854,10 +1855,10 @@
     "@babel/runtime" "^7.12.5"
     "@testing-library/dom" "^7.28.1"
 
-"@testing-library/user-event@12.7.4":
-  version "12.7.4"
-  resolved "https://registry.yarnpkg.com/@testing-library/user-event/-/user-event-12.7.4.tgz#c9ca50be91905477cc1e3fe8a78fee82cd6145f1"
-  integrity sha512-/wqOkbCQd0etFyqDFrSbmFScE4/QEjSHefhsxqGx7M2CDoRdFLt032u+wluWobnDB7vBQrvK/XuKuYRZ1hd35A==
+"@testing-library/user-event@12.8.1":
+  version "12.8.1"
+  resolved "https://registry.yarnpkg.com/@testing-library/user-event/-/user-event-12.8.1.tgz#aa897d6e7f0cf2208385abc2da2ac3f5844bbd00"
+  integrity sha512-u521YhkCKip0DQNDpfj9V97PU7UlCTkW5jURUD4JipuVe/xDJ32dJSIHlT2pqAs/I91OFB8p6LtqaLZpOu8BWQ==
   dependencies:
     "@babel/runtime" "^7.12.5"
 
@@ -2045,10 +2046,18 @@
     "@types/react" "*"
     "@types/react-router" "*"
 
-"@types/react-router@*", "@types/react-router@5.1.11":
+"@types/react-router@*":
   version "5.1.11"
   resolved "https://registry.yarnpkg.com/@types/react-router/-/react-router-5.1.11.tgz#b01ce4cb21bf7d6b32edc862fc1e2c0088044b5b"
   integrity sha512-ofHbZMlp0Y2baOHgsWBQ4K3AttxY61bDMkwTiBOkPg7U6C/3UwwB5WaIx28JmSVi/eX3uFEMRo61BV22fDQIvg==
+  dependencies:
+    "@types/history" "*"
+    "@types/react" "*"
+
+"@types/react-router@5.1.12":
+  version "5.1.12"
+  resolved "https://registry.yarnpkg.com/@types/react-router/-/react-router-5.1.12.tgz#0f300e09468e7aed86e18241c90238c18c377e51"
+  integrity sha512-0bhXQwHYfMeJlCh7mGhc0VJTRm0Gk+Z8T00aiP4702mDUuLs9SMhnd2DitpjWFjdOecx2UXtICK14H9iMnziGA==
   dependencies:
     "@types/history" "*"
     "@types/react" "*"
@@ -6284,7 +6293,7 @@ internal-slot@^1.0.3:
     has "^1.0.3"
     side-channel "^1.0.4"
 
-ionicons@5.5.0, ionicons@^5.1.2:
+ionicons@5.5.0, ionicons@^5.1.2, ionicons@^5.5.0:
   version "5.5.0"
   resolved "https://registry.yarnpkg.com/ionicons/-/ionicons-5.5.0.tgz#74ab783be11bee60e4351153c80b6d0682e5125a"
   integrity sha512-0DUHTeoIrGSY+KNyNDaQW7v5+mDstjSkjx8dzT925kXKYBDrN3sGs8kUcSSQbTK132U4CbgDEZkn7FDUa9x8Qw==
@@ -11627,10 +11636,10 @@ typedarray@^0.0.6:
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
   integrity sha1-hnrHTjhkGHsdPUfZlqeOxciDB3c=
 
-typescript@4.2.2:
-  version "4.2.2"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.2.2.tgz#1450f020618f872db0ea17317d16d8da8ddb8c4c"
-  integrity sha512-tbb+NVrLfnsJy3M59lsDgrzWIflR4d4TIUjz+heUnHZwdF7YsrMTKoRERiIvI2lvBG95dfpLxB21WZhys1bgaQ==
+typescript@4.2.3:
+  version "4.2.3"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.2.3.tgz#39062d8019912d43726298f09493d598048c1ce3"
+  integrity sha512-qOcYwxaByStAWrBf4x0fibwZvMRG+r4cQoTjbPtUlrWjBHbmCAww1i448U0GJ+3cNNEtebDteo/cHOR3xJ4wEw==
 
 unicode-canonical-property-names-ecmascript@^1.0.4:
   version "1.0.4"
