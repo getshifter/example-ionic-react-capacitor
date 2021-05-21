@@ -1329,10 +1329,10 @@
     tslib "^2.0.1"
     write-file-atomic "^3.0.0"
 
-"@ionic/cli@6.15.0":
-  version "6.15.0"
-  resolved "https://registry.yarnpkg.com/@ionic/cli/-/cli-6.15.0.tgz#4f3589243651bbe1b5b9865fdd87742913756ddb"
-  integrity sha512-PXLdBvdc6yc54ZS56/wcaVviDwpt9xB/ugcY0ij41E6DjqZ9YjoCfSSBDPbO+gVaRhH9LbTf3Q4SjqMyU5vn9A==
+"@ionic/cli@6.16.1":
+  version "6.16.1"
+  resolved "https://registry.yarnpkg.com/@ionic/cli/-/cli-6.16.1.tgz#34e0fc2e458476e749fc1353640724f96ef407bc"
+  integrity sha512-G+v+UDV83FP84j+LdAo88d+wmf9OwHMc8mhg973CjjfIvtMbemcGWKXpctAtkMLlTRzhQ6y3mTxwx2VJQ7a4QQ==
   dependencies:
     "@ionic/cli-framework" "5.1.0"
     "@ionic/cli-framework-output" "2.2.2"
