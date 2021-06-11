@@ -8,7 +8,7 @@
     "@ionic/react": "5.6.9",
     "@ionic/react-hooks": "0.0.8",
     "@ionic/react-router": "5.6.9",
-    "@testing-library/jest-dom": "5.13.0",
+    "@testing-library/jest-dom": "5.14.1",
     "@testing-library/react": "11.2.7",
     "@testing-library/user-event": "13.1.9",
     "@types/jest": "26.0.23",
