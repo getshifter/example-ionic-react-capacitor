@@ -1270,7 +1270,7 @@
     tar "^6.0.1"
     tslib "^2.0.1"
 
-"@ionic/core@^6.1.11", "@ionic/core@^6.1.12":
+"@ionic/core@^6.1.12":
   version "6.1.12"
   resolved "https://registry.yarnpkg.com/@ionic/core/-/core-6.1.12.tgz#1c2ae3206d2801dab788d1540cc4ca0876bb02ee"
   integrity sha512-CISprIpbGJHMjxsx0OAQ6grnsbBuhcImaiL5rRBI7MtncIW56nge4IO064n86bwhxRqvoXCA6EGq9D1S5Cn45g==
@@ -1297,16 +1297,7 @@
     "@ionic/react" "^6.1.11"
     tslib "*"
 
-"@ionic/react@6.1.11":
-  version "6.1.11"
-  resolved "https://registry.yarnpkg.com/@ionic/react/-/react-6.1.11.tgz#2ea84b136da553e14ec0ca2cd7c96541ac0d2401"
-  integrity sha512-mJXw5WdbWX56uSdo11EI7ePUe5hiQi4HQX0X0zkYaKijQQ0Tc1vDNoKcEkpP/QmRUQRXUUa5wu3rWtI0mRPu/w==
-  dependencies:
-    "@ionic/core" "^6.1.11"
-    ionicons "^6.0.2"
-    tslib "*"
-
-"@ionic/react@^6.1.11":
+"@ionic/react@6.1.12", "@ionic/react@^6.1.11":
   version "6.1.12"
   resolved "https://registry.yarnpkg.com/@ionic/react/-/react-6.1.12.tgz#bf2c15e8e983620c83fec81721def22b32c58b31"
   integrity sha512-k5Nv63fRCcEXOXl+LBeoO8HoqLHJFRoLj+vRBdlaQm660WYd5wu5MGfrzJq+d/1bd7ZzRJaQxz/jNwYOFThqMw==
