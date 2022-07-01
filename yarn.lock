@@ -1289,15 +1289,15 @@
   resolved "https://registry.yarnpkg.com/@ionic/react-hooks/-/react-hooks-0.0.8.tgz#3d036aaeffbb7b136ac411c896e907fb59bdbf92"
   integrity sha512-0U9hoPByJxd4/Sdx/uad2sDYCgQmQdG0nt+UNEzkk6IF4TjNVAQPcFQ6nJIc2oiUAMjaxzoLKmG8ziamuyfZaQ==
 
-"@ionic/react-router@6.1.11":
-  version "6.1.11"
-  resolved "https://registry.yarnpkg.com/@ionic/react-router/-/react-router-6.1.11.tgz#aaca8e6d995ca2dc5dcc6258de55f922c4edd6b9"
-  integrity sha512-/Z4QSO1X+6EJ+HKpi4jvRRm4B3QpTMpVBMGIRUo/51gg+yrrYdze/LRfbvTm9O/CFd1QYzJ3pLdxMwf0kmcBzg==
+"@ionic/react-router@6.1.12":
+  version "6.1.12"
+  resolved "https://registry.yarnpkg.com/@ionic/react-router/-/react-router-6.1.12.tgz#bf4805a7c47885a80a57edeee549e121d495c622"
+  integrity sha512-PxD6luLT6g0zpSN6tRUtrt7UkWaVkBgEL1zRwM/1uK3ZMAYlDTYuRhftTURsEmHUIdXedl3UMehpQYWYvoMRUA==
   dependencies:
-    "@ionic/react" "^6.1.11"
+    "@ionic/react" "^6.1.12"
     tslib "*"
 
-"@ionic/react@6.1.12", "@ionic/react@^6.1.11":
+"@ionic/react@6.1.12", "@ionic/react@^6.1.12":
   version "6.1.12"
   resolved "https://registry.yarnpkg.com/@ionic/react/-/react-6.1.12.tgz#bf2c15e8e983620c83fec81721def22b32c58b31"
   integrity sha512-k5Nv63fRCcEXOXl+LBeoO8HoqLHJFRoLj+vRBdlaQm660WYd5wu5MGfrzJq+d/1bd7ZzRJaQxz/jNwYOFThqMw==
