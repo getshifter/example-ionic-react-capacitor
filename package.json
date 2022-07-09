@@ -14,7 +14,7 @@
     "@types/jest": "28.1.4",
     "@types/node": "16.11.43",
     "@types/react": "18.0.15",
-    "@types/react-dom": "18.0.5",
+    "@types/react-dom": "18.0.6",
     "@types/react-router": "5.1.18",
     "@types/react-router-dom": "5.3.3",
     "ionicons": "6.0.2",
