@@ -1282,6 +1282,15 @@
     ionicons "^6.0.2"
     tslib "^2.1.0"
 
+"@ionic/core@^6.2.2":
+  version "6.2.2"
+  resolved "https://registry.yarnpkg.com/@ionic/core/-/core-6.2.2.tgz#3c9091bc28c16879f24c6b703b6f3b9a61ab7f8f"
+  integrity sha512-neE+JhtQ7Kb4nGoKR3e55edHQot5BZTw+woV9+pbyCXP1jGeyFeWWPYBYYOkm05TSEkHgh0v6NkV9y31k8GTNw==
+  dependencies:
+    "@stencil/core" "^2.16.0"
+    ionicons "^6.0.2"
+    tslib "^2.1.0"
+
 "@ionic/pwa-elements@3.1.1":
   version "3.1.1"
   resolved "https://registry.yarnpkg.com/@ionic/pwa-elements/-/pwa-elements-3.1.1.tgz#ae1a97260886545b3285364974674576f2b090a7"
@@ -1300,7 +1309,16 @@
     "@ionic/react" "^6.2.1"
     tslib "*"
 
-"@ionic/react@6.2.1", "@ionic/react@^6.2.1":
+"@ionic/react@6.2.2":
+  version "6.2.2"
+  resolved "https://registry.yarnpkg.com/@ionic/react/-/react-6.2.2.tgz#1d3c99b122f949bb89706a4bddd42156c346c4e2"
+  integrity sha512-CRuDJbNDn9bbDba37/5v9aZ2gd450XGklGqXmsxEfadh1iq7iWmqcgw14S0ZDAXQt0aE/J+TeKhTyjyutjsAww==
+  dependencies:
+    "@ionic/core" "^6.2.2"
+    ionicons "^6.0.2"
+    tslib "*"
+
+"@ionic/react@^6.2.1":
   version "6.2.1"
   resolved "https://registry.yarnpkg.com/@ionic/react/-/react-6.2.1.tgz#ccefcc84f5d2536f1b1a9087c6859a287e2ab603"
   integrity sha512-zHqoGeEm4QwzCijBvcYZQifrCvFXSRChh8ey5lsYUixxKwgl2j9y3kKLckLiipR/g+mbC5lVjno0UlIlBvsulQ==
