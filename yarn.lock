@@ -1273,15 +1273,6 @@
     tar "^6.0.1"
     tslib "^2.0.1"
 
-"@ionic/core@^6.3.1":
-  version "6.3.1"
-  resolved "https://registry.yarnpkg.com/@ionic/core/-/core-6.3.1.tgz#d66b2d04fcdc0dc508154ada4e461d7646805175"
-  integrity sha512-OpmGQQ/sGtoXW4PQRvRjYa9mTlAmAWwFMu8g/1rcdAPaTQQAlRnfZ62wYYqmChLSFlVbn6mCleeljzR9FaYrAg==
-  dependencies:
-    "@stencil/core" "^2.18.0"
-    ionicons "^6.0.3"
-    tslib "^2.1.0"
-
 "@ionic/core@^6.3.2":
   version "6.3.2"
   resolved "https://registry.yarnpkg.com/@ionic/core/-/core-6.3.2.tgz#2b3a5beb6a3ac56f4ed63a0cccded14ede9cdd52"
@@ -1301,29 +1292,20 @@
   resolved "https://registry.yarnpkg.com/@ionic/react-hooks/-/react-hooks-0.0.8.tgz#3d036aaeffbb7b136ac411c896e907fb59bdbf92"
   integrity sha512-0U9hoPByJxd4/Sdx/uad2sDYCgQmQdG0nt+UNEzkk6IF4TjNVAQPcFQ6nJIc2oiUAMjaxzoLKmG8ziamuyfZaQ==
 
-"@ionic/react-router@6.3.1":
-  version "6.3.1"
-  resolved "https://registry.yarnpkg.com/@ionic/react-router/-/react-router-6.3.1.tgz#2d090506201b9a39515bd22596ce710b94b4cbe4"
-  integrity sha512-GKmH2gc88vAjUOd+2sTxfwF8sEeNqu7anoF2Mbe900VN1lWy3w2FYduZF2SQX8LQeoCfzD77Jrvli4cpfnBl/A==
+"@ionic/react-router@6.3.2":
+  version "6.3.2"
+  resolved "https://registry.yarnpkg.com/@ionic/react-router/-/react-router-6.3.2.tgz#46b4432dbe1842e144838ae62f00e3263a7b1e75"
+  integrity sha512-pMFO6N+qDXwqlsLIwkA+DX4SWpBiL5eDL5PGqNLDzRZmZobtGUhdKnoVF4bSLKP0qABiC2kfC1g5OXjq1pmqug==
   dependencies:
-    "@ionic/react" "^6.3.1"
+    "@ionic/react" "^6.3.2"
     tslib "*"
 
-"@ionic/react@6.3.2":
+"@ionic/react@6.3.2", "@ionic/react@^6.3.2":
   version "6.3.2"
   resolved "https://registry.yarnpkg.com/@ionic/react/-/react-6.3.2.tgz#140815a7eb4f366dd0080b9472148626e7f83fb8"
   integrity sha512-+YZkUlOvygnowTmtEACd+B1fhmets3sSazr5Ipnv/O/genGgcY5llpxI+LeqvrWt0ECAtiNdF3c35M1IcoAuxA==
   dependencies:
     "@ionic/core" "^6.3.2"
-    ionicons "^6.0.2"
-    tslib "*"
-
-"@ionic/react@^6.3.1":
-  version "6.3.1"
-  resolved "https://registry.yarnpkg.com/@ionic/react/-/react-6.3.1.tgz#2726a93e8e0b821e5c60658f958d24933420c831"
-  integrity sha512-8Omxifn+b6wXjfm/+OH+AzKpFsR7xn0u8dxaAKeT66txh4fA7DBMgzEPBOe5+VvWarWI6B7cElX/7Xq8qJNwbw==
-  dependencies:
-    "@ionic/core" "^6.3.1"
     ionicons "^6.0.2"
     tslib "*"
 
