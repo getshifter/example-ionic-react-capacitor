@@ -1273,15 +1273,6 @@
     tar "^6.0.1"
     tslib "^2.0.1"
 
-"@ionic/core@^6.3.4":
-  version "6.3.4"
-  resolved "https://registry.yarnpkg.com/@ionic/core/-/core-6.3.4.tgz#22aeb46bcb0141c290b534040a0e01b4e0edffa2"
-  integrity sha512-3EnKqFdon7Im8JNvuPoq/iGyYK7hskdb9u5hlQE0fHU/9Q0DvFVh17QTq1sQjXntoJovfRhaPJhG+kvZK3mVAQ==
-  dependencies:
-    "@stencil/core" "^2.18.0"
-    ionicons "^6.0.3"
-    tslib "^2.1.0"
-
 "@ionic/core@^6.3.6":
   version "6.3.6"
   resolved "https://registry.yarnpkg.com/@ionic/core/-/core-6.3.6.tgz#736bfee7c0fe7940f37e7127d361b44f32975d86"
@@ -1301,29 +1292,20 @@
   resolved "https://registry.yarnpkg.com/@ionic/react-hooks/-/react-hooks-0.0.8.tgz#3d036aaeffbb7b136ac411c896e907fb59bdbf92"
   integrity sha512-0U9hoPByJxd4/Sdx/uad2sDYCgQmQdG0nt+UNEzkk6IF4TjNVAQPcFQ6nJIc2oiUAMjaxzoLKmG8ziamuyfZaQ==
 
-"@ionic/react-router@6.3.4":
-  version "6.3.4"
-  resolved "https://registry.yarnpkg.com/@ionic/react-router/-/react-router-6.3.4.tgz#5b462c2b537f3182333acc7992f550f98d3f875b"
-  integrity sha512-L23h89lVkZr9XMu8lc9vBeYda9ne4+TpRwCILjMV0sXh6ROuGT+qcgd00ozbwsTsE7+6MYWUgFolazlpwM4yYA==
+"@ionic/react-router@6.3.6":
+  version "6.3.6"
+  resolved "https://registry.yarnpkg.com/@ionic/react-router/-/react-router-6.3.6.tgz#cf92ebb6384c27c3828dc9208de29b41f5ff43a0"
+  integrity sha512-IFi5h64pb/DDPuK32fmhgDZUJfORuyWlEuYOU34D5PhsxAxMdQ8UGadJSggpW+Qp0Zlr0kktTmXb85cahY7c1g==
   dependencies:
-    "@ionic/react" "^6.3.4"
+    "@ionic/react" "^6.3.6"
     tslib "*"
 
-"@ionic/react@6.3.6":
+"@ionic/react@6.3.6", "@ionic/react@^6.3.6":
   version "6.3.6"
   resolved "https://registry.yarnpkg.com/@ionic/react/-/react-6.3.6.tgz#978d9b3224cec1afb1d02be1fa8adec5f6124d3e"
   integrity sha512-g5S5wHfVnNQ+2n+jlT7U1thn9g9Xj2JPaz+0EwD/qmyzlt8ikyzDAoaWCxla7hm2+5IvR1pIkENnKxRAH6FZzg==
   dependencies:
     "@ionic/core" "^6.3.6"
-    ionicons "^6.0.2"
-    tslib "*"
-
-"@ionic/react@^6.3.4":
-  version "6.3.4"
-  resolved "https://registry.yarnpkg.com/@ionic/react/-/react-6.3.4.tgz#516dbae9a1078efbfc2a0ed60a74ca9e0599e108"
-  integrity sha512-0AHyFpzk2Q3BikzbfQryiAwkzW+Y+GaXfaxPvKm+vmFiwCDcIwsCS/JZGDxcmR7G5Ps1QrfNLq5IgvZb+XSjAA==
-  dependencies:
-    "@ionic/core" "^6.3.4"
     ionicons "^6.0.2"
     tslib "*"
 
@@ -6422,7 +6404,7 @@ internal-slot@^1.0.3:
     has "^1.0.3"
     side-channel "^1.0.4"
 
-ionicons@6.0.3, ionicons@^6.0.3:
+ionicons@6.0.3:
   version "6.0.3"
   resolved "https://registry.yarnpkg.com/ionicons/-/ionicons-6.0.3.tgz#d1610e764109b121ddf006febbda80fcd7db0454"
   integrity sha512-kVOWER991EMqLiVShrCSWKMHkgHZP7XfVdyN6YPMuoO33W7pc5CPNVNfR8OMe/I8rYEbaunyBs6dXNYpR6gGZw==
