@@ -6404,12 +6404,12 @@ internal-slot@^1.0.3:
     has "^1.0.3"
     side-channel "^1.0.4"
 
-ionicons@6.0.3:
-  version "6.0.3"
-  resolved "https://registry.yarnpkg.com/ionicons/-/ionicons-6.0.3.tgz#d1610e764109b121ddf006febbda80fcd7db0454"
-  integrity sha512-kVOWER991EMqLiVShrCSWKMHkgHZP7XfVdyN6YPMuoO33W7pc5CPNVNfR8OMe/I8rYEbaunyBs6dXNYpR6gGZw==
+ionicons@6.0.4, ionicons@^6.0.4:
+  version "6.0.4"
+  resolved "https://registry.yarnpkg.com/ionicons/-/ionicons-6.0.4.tgz#ab7aa439b7f17f29e0ef0a28568b4920c3167bfd"
+  integrity sha512-uDNOkBo0OVYV+kIhb51g9mb7r3Z0b+78GPZQBsjXuaetNmrB/mNTqN/uFtO+vxL/rQySKjzk8qeKJI5NWL9Ueg==
   dependencies:
-    "@stencil/core" "~2.16.0"
+    "@stencil/core" "^2.18.0"
 
 ionicons@^6.0.2:
   version "6.0.2"
@@ -6417,13 +6417,6 @@ ionicons@^6.0.2:
   integrity sha512-AyKfFaUKVoBz4eB8XkU7H1R5HFnVsgq5ijqSdbXC0lES9PDK/J6LUQz6XUJq0mVVQF5k9kczSPOLMW3mszG0mQ==
   dependencies:
     "@stencil/core" "~2.16.0"
-
-ionicons@^6.0.4:
-  version "6.0.4"
-  resolved "https://registry.yarnpkg.com/ionicons/-/ionicons-6.0.4.tgz#ab7aa439b7f17f29e0ef0a28568b4920c3167bfd"
-  integrity sha512-uDNOkBo0OVYV+kIhb51g9mb7r3Z0b+78GPZQBsjXuaetNmrB/mNTqN/uFtO+vxL/rQySKjzk8qeKJI5NWL9Ueg==
-  dependencies:
-    "@stencil/core" "^2.18.0"
 
 ip-regex@^2.1.0:
   version "2.1.0"
