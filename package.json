@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "private": true,
   "dependencies": {
-    "@capacitor/core": "2.5.0",
+    "@capacitor/core": "6.1.2",
     "@ionic/pwa-elements": "3.1.1",
     "@ionic/react": "6.3.6",
     "@ionic/react-hooks": "0.0.8",
@@ -51,7 +51,7 @@
     ]
   },
   "devDependencies": {
-    "@capacitor/cli": "2.5.0",
+    "@capacitor/cli": "6.1.2",
     "@ionic/cli": "6.20.3"
   },
   "description": "An Ionic project"
